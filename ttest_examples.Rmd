@@ -1,0 +1,10 @@
+---
+title: "week 4 part 1 - Conf int and t tests"
+author: "Craig Kopulsky"
+date: "10/26/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
